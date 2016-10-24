@@ -26,9 +26,9 @@ import javax.imageio.stream.ImageOutputStream;
  */
 public class Compresssion {
 
-    private static String jpg = "C:\\Users\\nimzo\\OneDrive\\C300_Pictures\\Gravure\\NishinoNanase\\013.jpg";
-    private static String jpg_x = "C:\\Users\\nimzo\\OneDrive\\C300_Pictures\\Gravure\\NishinoNanase\\013_x.jpg";
-    private static String jpg_y = "C:\\Users\\nimzo\\OneDrive\\C300_Pictures\\Gravure\\NishinoNanase\\013_y.jpg";
+    private static String jpg = "C:\\Users\\nimzo\\013.jpg";
+    private static String jpg_x = "C:\\Users\\nimzo\\013_x.jpg";
+    private static String jpg_y = "C:\\Users\\nimzo\\013_y.jpg";
 
     public static void main(String[] args) {
         new Compresssion().main();
